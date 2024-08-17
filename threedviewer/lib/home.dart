@@ -22,7 +22,7 @@ class HomeState extends State<Home> {
       decoration: const BoxDecoration(
         gradient: LinearGradient(
           colors: [
-            Colors.orange,
+            Colors.black,
             Colors.red,
           ],
           begin: Alignment.topLeft,
